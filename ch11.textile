@@ -26,7 +26,7 @@ Disables HTML escaping
 *==#{i18n /}==*
 Exports localized msgs in Javascript
 
-*==#{ifErrors} <p>Error(s) found!</p> #{/ifErrors}==*
+*==#{ifErrors} &lt;p&gt;Error(s) found!&lt;/p&gt; #{/ifErrors}==*
 Checks for validation errors
 
 *==#{ifError 'user.name'} #{error 'user.name' /} #{/ifError}==*

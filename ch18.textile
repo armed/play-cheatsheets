@@ -17,7 +17,7 @@ Defines this method as being a callback for post-remove
 events
 
 *==@PreUpdate==*
-Defines this method as being a callback for post-update
+Defines this method as being a callback for pre-update
 events
 
 *==@PostLoad==*
